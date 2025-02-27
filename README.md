@@ -1,2 +1,5 @@
-# goit-js-hw-06
-GoIT JavaScript - Homework #6
+# GoIT JavaScript - Homework #6
+
+---
+
+## Задача 1. Акаунт користувача
